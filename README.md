@@ -149,11 +149,14 @@ Training produces the following outputs in the specified directory:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{your_paper,
-  title={Constraint-Aware Federated Learning},
-  author={Your Name},
-  journal={Your Journal},
-  year={2025}
+@misc{zheng2025cafllconstraintawarefederatedlearning,
+      title={CAFL-L: Constraint-Aware Federated Learning with Lagrangian Dual Optimization for On-Device Language Models}, 
+      author={Dongqi Zheng and Wenjin Fu},
+      year={2025},
+      eprint={2510.03298},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.03298}, 
 }
 ```
 
