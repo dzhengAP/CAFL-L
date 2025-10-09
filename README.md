@@ -13,7 +13,7 @@ Constraint-Aware Federated Learning with token-budget preservation for improved 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cafl.git
+git clone https://github.com/dzhengAP/cafl.git
 cd cafl
 
 # Install in development mode
