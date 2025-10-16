@@ -2,6 +2,7 @@
 
 import requests
 import torch
+import math
 
 
 # Shakespeare dataset URL
