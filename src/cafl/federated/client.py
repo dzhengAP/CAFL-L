@@ -35,7 +35,7 @@ def client_local_update(model, base_state, client_data, steps, physical_batch_si
         base_steps_ref: Reference steps for LR scaling
         base_bs_ref: Reference batch size for LR scaling
     
-    Returns:
+    Returns
         stats: Dictionary with training statistics
         delta: Parameter update (difference from base_state)
     """
